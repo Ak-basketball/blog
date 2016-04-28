@@ -28,3 +28,15 @@ body{
 .day1-title{
   text-align:center
 }
+.day3-link{
+  color:white;
+  text-decoration:none;
+  -webkit-transition:0.8s;
+  -o-transition:0.8s;
+  -moz-transition:0.8s;
+  transition:0.8s;
+}
+.day3-link:hover{
+  color: #3BB9FF;
+  font-size: 30px;
+}
